@@ -1,9 +1,9 @@
 # Site settings
 title: Ashish Gandhi
 email: ashish.d.gandhi@gmail.com
-url: http://billmartin.io
-description: "Full-Stack Web Developer, Musician, and Great Outdoors Enthusiast."
-meta_author: Bill Martin
+url: https://gandhiashish.github.io/
+description: "Full-Stack Web Developer"
+meta_author: Ashish Gandhi
 
 # Google webmaster tools
 google_verify:
@@ -19,7 +19,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: billmartin
+disqus_shortname: ashishgandhi
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -51,29 +51,29 @@ portfolio:
 # Footer settings
 footer:
   location-header: Location
-  location: Manchester, NH
-  copyright: Bill Martin. All Rights Reserved.
+  location: Tampa, FL
+  copyright: Ashish Gandhi. All Rights Reserved.
   social: My Other Whereabouts
   new-thoughts: New Thoughts
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc. search them in main.css)
 social:
   - title: github
-    url: https://github.com/bill-c-martin
+    url: https://github.com/gandhiashish
   - title: linkedin
-    url: https://www.linkedin.com/in/billmartin9
-  - title: codeschool
-    url: https://www.codeschool.com/users/90602
-  - title: laracasts
-    url: https://laracasts.com/@wcmarti2 
-  - title: stack-overflow
-    url: http://stackoverflow.com/users/5743565/bill-martin
+    url: https://www.linkedin.com/in/ashish-gandhi-3416b07/
+#  - title: codeschool
+#    url: https://www.codeschool.com/users/90602
+#  - title: laracasts
+#    url: https://laracasts.com/@wcmarti2 
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/users/5743565/bill-martin
   - title: rss
     url: /feed.xml
 
 
 # Credits content
-credits: '<a href="https://github.com/bill-c-martin/bill-c-martin.github.io">Fork my portfolio on github</a>'
+credits: '<a href="https://github.com/gandhiashish/gandhiashish.github.io.git">Fork my portfolio on github</a>'
 
 # Build settings
 permalink: pretty
