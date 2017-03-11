@@ -287,8 +287,8 @@ article.blog-post footer .next {
 /* Contact */
 
 section#contact {
-    color: #fff;
-    background: #{{ site.color.primary }};
+    /*color: #fff;
+    background: #{{ site.color.primary }}; */
 }
 
 section#contact hr.star-primary {
