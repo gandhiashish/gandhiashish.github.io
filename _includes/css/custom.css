@@ -292,7 +292,7 @@ section#contact {
 }
 
 section#contact hr.star-primary {
-  border: 1px solid #{{ site.color.secondary }};
+  border-color: #{{ site.color.secondary }}
 }
 
 section#contact hr.star-light:after, section#contact hr.star-primary:after {
@@ -307,6 +307,10 @@ section#contact hr.star-primary::after {
 section#contact form div.controls{
   /*  background: #fff; */
     margin: 10px;
+}
+
+section#contact input{
+	border: 1px solid #{{ site.color.secondary }}
 }
 
 section#contact button{
