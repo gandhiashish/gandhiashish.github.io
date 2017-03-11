@@ -158,9 +158,6 @@ section#about ul  {
 }
 
 /* Blog Grid */
-section#blog{
-	display; none;
-}
 
 section#blog hr.star-primary:after {
   content: "\f0eb";
