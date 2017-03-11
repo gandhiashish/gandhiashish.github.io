@@ -292,16 +292,16 @@ section#contact {
 }
 
 section#contact hr.star-primary {
-  border-color: #fff;
+  /*border-color: #fff;*/
 }
 
 section#contact hr.star-light:after, section#contact hr.star-primary:after {
-    content: "\f095";
+    /*content: "\f095";*/
 }
 
 section#contact hr.star-primary::after {
-  color: #fff;
-  background-color: #{{ site.color.primary }};
+ /* color: #fff;
+  background-color: #{{ site.color.primary }};*/
 }
 
 section#contact form div.controls{
@@ -311,7 +311,7 @@ section#contact form div.controls{
 
 section#contact button{
     color: #fff;
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.secondary }}
 }
 
 section#contact button:hover{
