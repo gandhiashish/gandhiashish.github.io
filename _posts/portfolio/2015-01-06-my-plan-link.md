@@ -5,9 +5,8 @@ category: portfolio
 modal-id: 6
 img: myplanlink-quoting.png
 alt: Screenshot of MyPlanLink Quoting
-client: United Healthcare, Aetna, Blue Cross, and more
+client: United Healthcare, Aetna, Blue Cross, Wellmark and more
 application: MyPlanLink Quoting
-project-date: July 2015 - January 2016
 languages:
 - PHP
 - SQL
@@ -52,19 +51,18 @@ The goal was to build a set of web services that this platform could flexibly an
 
 Out of a team of developers, my primary contributions were:
 
-* Payment tokenization and ecryption
-* Test harness for tokenization
-* Submission of enrollments to providers
+* Enrollment capture from MyPlanLink to PCI zone
+* Payment tokenization with Cybersource
+* Enrich payment information
+* Submit enrollments to internal HPS system if it is for HPS administered carriers.
+* Submit status of enrollments to MyPlanLink
 
 ### Challenges Overcame
-
-This was my first experience building something that tokenized and encrypted actual payment information which was a high-security, business-critical task. This involved a variety of encryption techniques and software to accomplish.
 
 The biggest challenge was scalability. For n number of health insurance providers, there can be n number of enrollment submission methods that they themselves require to receive the enrollment, such as:
 
  * E-fax of PDF enrollments
  * Token-protected web APIs with enrollment as custom-formatted in JSON
- * .NET SOAP web services protected with encryption and public keys
  * PDFs sent via FTP for manual processing
 
 ### Accomplishments
