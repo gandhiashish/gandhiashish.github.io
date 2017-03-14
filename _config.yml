@@ -68,8 +68,8 @@ social:
 #    url: https://laracasts.com/@wcmarti2 
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/users/5743565/bill-martin
-   - title: facebook
-     url: https://www.facebook.com/ashishdgandhi
+#   - title: facebook
+#     url: https://www.facebook.com/ashishdgandhi
   - title: rss
     url: /feed.xml
 
