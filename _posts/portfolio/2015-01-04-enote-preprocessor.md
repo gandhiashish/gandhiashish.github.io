@@ -8,7 +8,7 @@ alt: No image available
 client: HealthPlan Services(Internal)
 application: E-notes
 languages:
-- JAVA
+- JAVA (Spring Framework)
 - DB2
 - MySQL
 concepts:
@@ -23,8 +23,6 @@ stack:
 - DB2
 - MySQL
 - JAVA
-Framework:
-- Spring
 ---
 
 ### Project Description
@@ -35,7 +33,7 @@ The goal was to reduce overhead for E-note processing by filtering out bad recor
 
 ### Contributions
 
-my contributions were:
+My contributions were:
 
 * Created multithreaded batch job
 * Developed business rule validations
