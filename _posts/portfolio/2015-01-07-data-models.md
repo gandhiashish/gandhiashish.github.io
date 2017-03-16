@@ -64,7 +64,7 @@ Out of a team of developers, my primary contributions were:
 
 ### Accomplishments
 
-The greatest accomplishment of this project was that we have created new group platform where sales representatives and business users can perfom operations on policies reducing their manual work and use legacy applications
+The greatest accomplishment of this project was that we have created new group platform where sales representatives and business users can perfom operations on policies reducing their manual work and use of legacy applications
 
 The skills I developed most were:
 
