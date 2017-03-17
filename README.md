@@ -12,17 +12,17 @@ The new folder structure is:
 
 ![Screenshot of posts folder structure for blog and portfolio posts](/img/readme/posts_folder_structure.png)
 
-###![Screenshot of example blog grid view](/img/readme/blog_screenshot.png)
+![Screenshot of example blog grid view](/img/readme/blog_screenshot.png)
 
 #### Support Tags on Portfolio Projects
 The default Freelancer theme only supports client, date, application, and description fields for portfolio projects. I added a section to show languages, tools, concepts, & stack used for each project. They show up as tags.
 
-###![Screenshot of tags feature and markdown](/img/readme/tags.png)
+![Screenshot of tags feature and markdown](/img/readme/tags.png)
 
 #### Cute Icons
 Relevant [Font Awesome](https://fortawesome.github.io/Font-Awesome/) were added to each header, overriding the default "star" icons.
 
-###![Screenshot of added header icons](/img/readme/icons.png)
+![Screenshot of added header icons](/img/readme/icons.png)
 
 ## How to use
  - Fork or clone this repo to your own with name: ```your-github-username.github.io```
