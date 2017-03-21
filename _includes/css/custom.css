@@ -294,7 +294,7 @@ section#recommendations hr.star-primary::after {
   background-color: #white;
 } 
 #recommendations hr.star-light {
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.color.secondary }};
 }
 
 #recommendations hr.star-light:after, #recommendations hr.star-primary:after {
