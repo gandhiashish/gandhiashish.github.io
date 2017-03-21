@@ -286,9 +286,11 @@ article.blog-post footer .next {
 
 /*Recommendations*/
 section#recommendations {
+    color: #{{ site.color.secondary }};
     background: #fff; 
 }
 section#recommendations hr.star-primary::after {
+  color: #{{ site.color.secondary }};
   background-color: #fff;
 } 
 #recommendations hr.star-light:after, #recommendations hr.star-primary:after {
