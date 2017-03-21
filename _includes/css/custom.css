@@ -290,18 +290,14 @@ section#recommendations {
     background: #fff; 
 }
 section#recommendations hr.star-primary::after {
+	content: "\f0b1";
   color: #{{ site.color.secondary }};
-  background-color: #fff;
+  background-color: #white;
 } 
 #recommendations hr.star-light {
     border-color: #{{ site.color.primary }};
 }
 
-#recommendations hr.star-light:after, #recommendations hr.star-primary:after {
-    content: "\f0b1";
-	color: #{{ site.color.primary }};
-    background-color: white
-}
 
 /* Contact */
 
