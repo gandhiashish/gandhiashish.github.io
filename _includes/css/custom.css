@@ -319,13 +319,6 @@ section#contact form div.controls{
     margin: 10px;
 }
 
-section#contact input{
-	border: 1px solid #{{ site.color.secondary }}
-}
-
-section#contact textarea{
-	border: 1px solid #{{ site.color.secondary }}
-}
 
 section#contact button{
     color: #fff;
