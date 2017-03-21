@@ -3,8 +3,8 @@ layout: default
 title: E-note preprocessor
 category: portfolio
 modal-id: 7
-img: no-image.png
-alt: No image available
+img: hps_internal.png
+alt: HPS Internal Application
 client: HealthPlan Services(Internal)
 application: E-notes
 languages:

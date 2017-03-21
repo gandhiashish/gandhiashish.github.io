@@ -4,7 +4,7 @@ title: ServiceLink Group Portal
 category: portfolio
 modal-id: 7
 img: hps_internal.jpg
-alt: Image not available for internal projects
+alt: HPS Internal Application
 client: AIG
 application: ServiceLink Group Portal
 languages:
