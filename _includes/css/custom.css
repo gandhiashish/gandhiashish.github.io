@@ -284,11 +284,21 @@ article.blog-post footer .next {
   text-align: right;
 }
 
+/*Recommendations*/
+section#recommendations {
+    color: #fff;
+    background: #{{ site.color.primary }}; 
+}
+section#recommendations hr.star-primary::after {
+  color: #fff;
+  background-color: #{{ site.color.primary }};
+}
+
 /* Contact */
 
 section#contact {
-    /*color: #fff;
-    background: #{{ site.color.primary }}; */
+    color: #fff;
+    background: #{{ site.color.primary }}; 
 }
 
 section#contact hr.star-primary {
@@ -300,12 +310,12 @@ section#contact hr.star-light:after, section#contact hr.star-primary:after {
 }
 
 section#contact hr.star-primary::after {
-  /*color: #fff;
-  background-color: #{{ site.color.primary }};*/
+  color: #fff;
+  background-color: #{{ site.color.primary }};
 }
 
 section#contact form div.controls{
-  /*  background: #fff; */
+    background: #fff; 
     margin: 10px;
 }
 
