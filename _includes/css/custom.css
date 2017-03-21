@@ -302,7 +302,7 @@ section#contact {
 }
 
 section#contact hr.star-primary {
-  border-color: #{{ site.color.secondary }}
+  border-color: #fff;
 }
 
 section#contact hr.star-light:after, section#contact hr.star-primary:after {
