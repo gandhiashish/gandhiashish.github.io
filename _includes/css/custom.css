@@ -286,12 +286,12 @@ article.blog-post footer .next {
 
 /*Recommendations*/
 section#recommendations {
-    /*color: #fff;*/
-    background: #{{ site.color.primary }}; 
+    color: #{{ site.color.primary }};
+    background: #fff; 
 }
 section#recommendations hr.star-primary::after {
-  /*color: #fff;*/
-  background-color: #{{ site.color.primary }};
+  color: #{{ site.color.primary }};
+  background-color: #fff;
 } 
 
 /* Contact */
