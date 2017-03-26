@@ -39,9 +39,8 @@ ServiceLink Group portal is a platform where customer sales representatives and 
 The goal was to provide a data layer that fulfill the data requirement for below functionalies:
 
 * Case search
-* case details
+* Case details
 * Coverage details & history
-* Coverage details * history
 * Billing summary, details & history
 * Schedule payment
 * Payment history
